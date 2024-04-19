@@ -4,9 +4,9 @@ This project is a simple to-do tracker application designed to help users keep t
 
 ## ⚙️ Tech Stack
 
-. Vite
-. React.js
-. Tailwind CSS
+-   Vite
+-   React.js
+-   Tailwind CSS
 
 Make sure you have the following installed on your machine:
 
