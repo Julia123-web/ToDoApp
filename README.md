@@ -13,7 +13,7 @@ Make sure you have the following installed on your machine:
 -   Node.js
 -   npm
 
-Clone the Repository: git clone <https://github.com/Julia123-web/TodoApp.git>
+Clone the Repository: git clone <https://github.com/Julia123-web/ToDoApp.git>
 
 ## 🤸 How to run the Frontend:
 
